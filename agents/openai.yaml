@@ -1,0 +1,4 @@
+interface:
+  display_name: "材料总结与述职文件生成"
+  short_description: "汇总原始材料并按大纲与模板生成可信、精炼的述职文件"
+  default_prompt: "使用 $summarize-materials-to-review-doc 汇总我提供的全部材料，严格沿用大纲和模板，产出可核查的述职文件。"
